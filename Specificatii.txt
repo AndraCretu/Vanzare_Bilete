@@ -1,0 +1,16 @@
+1. JAVA: RESTful Web Services Application – Vanzare Bilete
+Creati o aplicatie web care sa implementeze 4 web services-uri de tip REST cu urmatoarele endpoint-uri:
+/buy_ticket POST
+/list_events GET
+/ticket_details GET
+/cancel_ticket POST
+
+La realizarea acestei aplicatii m-am folosit de o baza de date online pentru a prelua informatii pentru API.
+Informatii despre locatia bazei de date si datele de logare:
+
+Server: sql11.freemysqlhosting.net
+Name: sql11176768
+Username: sql11176768
+Password: YMJ9gDnkpS
+Port number: 3306
+
